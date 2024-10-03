@@ -1,5 +1,6 @@
 package jobsheet06;
 
+import jobsheet06.inheritace.Dosen;
 
 public class Demo {
     public static void main(String[] args) {

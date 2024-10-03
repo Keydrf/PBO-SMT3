@@ -1,6 +1,6 @@
-package jobsheet06;
+package jobsheet06.inheritace;
 
-import jobsheet06.Pegawai;
+import jobsheet06.testpackage.Pegawai;
 
 public class Dosen extends Pegawai {
     public String nidn;
